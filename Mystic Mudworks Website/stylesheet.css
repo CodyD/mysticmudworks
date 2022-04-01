@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Forum");
 @import url("https://fonts.googleapis.com/css?family=Cinzel:400,700,900|Josefin+Slab:100,100i,300,300i,400,400i,600,600i,700,700i|Marcellus|Nanum+Myeongjo:400,700,800|Old+Standard+TT:400,400i,700|Prata|Vidaloka");
 body {
-  background: #dde5b6;
+  background: #ffffff;
   margin: 0;
   color: white;
 }
@@ -13,8 +13,8 @@ body {
   padding: 6em 0;
   text-align: center;
   margin: auto;
-  width: 40%;
-  height: 100%;
+  width: 608px;
+  height: 400px;
 }
 .subscribe-box h2 {
   margin: 0 0 0.85em 0;
