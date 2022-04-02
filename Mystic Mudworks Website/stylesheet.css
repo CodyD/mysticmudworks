@@ -3,12 +3,15 @@
 @import url("https://fonts.googleapis.com/css?family=Cinzel:400,700,900|Josefin+Slab:100,100i,300,300i,400,400i,600,600i,700,700i|Marcellus|Nanum+Myeongjo:400,700,800|Old+Standard+TT:400,400i,700|Prata|Vidaloka");
 body {
   background: #ffffff;
+  background-image: url("background.png");
+    background-position: center;
+  background-size: cover;
   margin: 0;
   color: white;
 }
 
 .subscribe-box {
-  background: #e07a5f;
+  background: #9AB9A7;
   font-family: "Gothic A1", serif;
   padding: 6em 0;
   text-align: center;
